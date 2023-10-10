@@ -71,7 +71,5 @@ public class Tesis extends Escrito {
 
 	public void setInterpretacion(String interpretacion) {
 		this.interpretacion = interpretacion;
-	}
-	
-	
+	}	
 }
